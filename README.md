@@ -19,5 +19,8 @@ Update Public Test
 ```
 steamcmd +login anonymous +force_install_dir /path/to/your/Valheim +app_update 896660 -beta public-test -betapassword "yesimadebackups" validate +exit
 ```
-
+Worlds directory
+```
+~/.config/unity3d/IronGate/Valheim/worlds/ 
+```
 
