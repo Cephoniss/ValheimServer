@@ -23,4 +23,24 @@ Worlds directory
 ```
 ~/.config/unity3d/IronGate/Valheim/worlds/ 
 ```
+#V Rising Server
+## Information for starting server
+
+Navigate to server directory in ~/
+```
+cd VrisingServer
+```
+
+Start Server
+```
+systemctl start VRising
+```
+Server Status
+```
+systemctl status VRising
+```
+Update
+```
+steamcmd +login anonymous +force_install_dir /home/steam/VrisingServer +app_update 1829350 +quit
+
 
