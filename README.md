@@ -23,7 +23,7 @@ Worlds directory
 ```
 ~/.config/unity3d/IronGate/Valheim/worlds/ 
 ```
-#V Rising Server
+# V Rising Server
 ## Information for starting server
 
 Navigate to server directory in ~/
